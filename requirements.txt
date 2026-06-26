@@ -1,0 +1,7 @@
+# No external requirements - uses only Python standard library
+# Python 3.6+ required
+
+# To run:
+# python3 create_hybrid_kar.py
+# or
+# bash run_pipeline.sh
